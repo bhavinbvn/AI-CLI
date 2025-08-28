@@ -39,8 +39,8 @@ The CLI parses your intent, generates structured actions, and executes them — 
 Clone this repository:  
 
 ```bash
-git clone https://github.com/yourusername/ai_native_cli.git
-cd ai_native_cli
+git clone https://github.com/bhavinbvn/AI-CLI.git
+cd AI-CLI
 ```
 
 Create and activate a virtual environment:  
@@ -160,7 +160,3 @@ User → ai-cli → NLU (Ollama/OpenAI) → Intent JSON → Executor → Action 
 4. Push and open a PR  
 
 ---
-
-## 📜 License  
-
-MIT License. See [LICENSE](LICENSE).  
